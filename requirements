@@ -1,0 +1,16 @@
+python3.6
+statsmodels
+numpy
+pandas
+matplotlib
+scipy
+collections
+graphviz
+nest_asyncio
+pyshark
+lda
+netzob
+minepy
+multiprocessing
+dpkt
+sklearn
