@@ -1,13 +1,8 @@
 statsmodels
-numpy
-pandas
 matplotlib
-scipy
 graphviz
 nest_asyncio
 pyshark
 lda
 netzob
-minepy
-dpkt
 sklearn
