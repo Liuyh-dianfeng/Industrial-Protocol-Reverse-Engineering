@@ -117,8 +117,8 @@ class SubMsg:
         
         tdata = list(data[tmatrixtuple[0]:])
         
-        if tdata.count(0) > .9 * len(tdata):
-            return False
+        #if tdata.count(0) > .9 * len(tdata):
+            #return False
             
         ttwo = self.acf.execute(tdata)
         if ttwo > 0 and ttwo < len(tdata):
